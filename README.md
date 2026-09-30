@@ -31,4 +31,6 @@ Tıp hekimliği arka planımı yazılım, IoT ve hızlı donanım prototipleme i
 
 #### 🌐 Web & İletişim
 
-- Web: [zedmekatronik.com](https://zedmekatronik.com/)
+- **Web:** [zedmekatronik.com](https://zedmekatronik.com/)
+-- **Proje & İş Birlikleri:** [info@zedmekatronik.com](mailto:info@zedmekatronik.com)
+- **Kişisel:** [devrimq@gmail.com](mailto:devrimq@gmail.com)
